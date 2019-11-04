@@ -1,0 +1,1 @@
+# single-maven-module-java-archetype
