@@ -1,2 +1,1 @@
-# Skeleton for Java Application, Build as a Single Maven Module
-
+# Java Application Skeleton, Build As A Single Maven Module
