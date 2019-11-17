@@ -8,4 +8,8 @@
   <artifactId>java-maven-skeleton</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+  <name>Java Maven Skeleton</name>
+  <description>Reusable Skeleton of a Java (Single-Module Maven) Project</description>
+  <url>https://github.com/informaticum/java-maven-skeleton</url>
+
 </project>
