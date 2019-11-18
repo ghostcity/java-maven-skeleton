@@ -51,6 +51,12 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <version>2.12.4</version>
       </plugin>
+      <!--:-:-:-:-:-:-:-:-:-:-:-:-:-:- [3/3] SITE LIFECYCLE -:-:-:-:-:-:-:-:-:-:-:-:-:-:-->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-site-plugin</artifactId>
+        <version>3.3</version>
+      </plugin>
     </plugins>
   </build>
 
