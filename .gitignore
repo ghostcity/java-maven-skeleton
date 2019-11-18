@@ -1,6 +1,12 @@
 ### General
 *.log
 
+### Java
+*.class
+*.jar
+# JVM crashes
+hs_err_pid*
+
 ### Maven
 target/
 
